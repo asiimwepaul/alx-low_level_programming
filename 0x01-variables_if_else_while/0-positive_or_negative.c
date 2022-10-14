@@ -5,7 +5,6 @@
  * main - main function generate a random number
  * Return: return 0 if successfull
  */
-
 int main(void)
 {
 	int n;
@@ -20,7 +19,7 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
-	else 
+	else
 	{
 		printf("%d is negative\n", n);
 	}
