@@ -1,0 +1,1 @@
+#include <stdio.h> /** *main-serves as the entry point for the program *Decription: C program that prints a function followed by a new line *Return: By default returns zero if successful */ int main(void){printf("with proper grammar, but the outcome is a piece of art,\n"); return (0);}
