@@ -18,7 +18,7 @@ int main(void)
 			printf("%li, %li", first_num, second_num);
 			continue;
 		}
-		print("%li, %li", first_num, second_num);
+		printf("%li, %li", first_num, second_num);
 		first_num += second_num;
 		second_num += first_num;
 	}
