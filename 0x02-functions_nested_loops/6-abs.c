@@ -4,7 +4,7 @@
  * @n: parameter
  * Return: return 0 if successful or 1 if otherwise
  */
-int _abs(int)
+int _abs(int n)
 {
 	if (n < 0)
 	{
