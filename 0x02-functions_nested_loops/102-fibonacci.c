@@ -22,6 +22,6 @@ int main(void)
 		first_num += second_num;
 		second_num += first_num;
 	}
-	printf("%li\n");
+	printf("%d\n");
 	return (0);
 }
