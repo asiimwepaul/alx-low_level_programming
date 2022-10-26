@@ -3,7 +3,7 @@
 /**
  * leet - encodes a string to 1337
  * @n: input string
- * Return: the pointer dest
+ * Return: return the value of n
  */
 
 char *leet(char *n)
@@ -18,7 +18,7 @@ char *leet(char *n)
 		{
 			if (n[i] == s1[j])
 			{
-				n[i] == s2[j];
+				n[i] = s2[j];
 			}
 		}
 	}
